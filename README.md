@@ -1,4 +1,4 @@
-## Hi there, my name is Ayush Sharma👋
+## Hi there, My Name Is Ayush Sharma👋
 
 <!--
 **ayush-octt/ayush-octt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
